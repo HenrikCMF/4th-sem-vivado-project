@@ -1,0 +1,120 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/ADAU1761_interface.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ADAU1761_interface'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/Complex4Multiply.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Complex4Multiply'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/Complex4Multiply_block.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Complex4Multiply_block'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/Complex4Multiply_block1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Complex4Multiply_block1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/Complex4Multiply_block2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Complex4Multiply_block2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/FFT_block_pac.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SimpleDualPortRAM_generic.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SimpleDualPortRAM_generic'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF1_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF1_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF2_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF2_2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/TWDLROM_3_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TWDLROM_3_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF1_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF1_3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF2_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF2_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/TWDLROM_5_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TWDLROM_5_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_5'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator5'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF1_5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF1_5'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_6'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator6'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF2_6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF2_6'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/TWDLROM_7_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TWDLROM_7_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_7'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator7'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF1_7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF1_7'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_8'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator8'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF2_8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF2_8'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/TWDLROM_9_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TWDLROM_9_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_CTRL1_1_block.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_CTRL1_1_block'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/SDFCommutator9.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SDFCommutator9'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX22FFT_SDF1_9.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX22FFT_SDF1_9'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/RADIX2FFT_bitNatural.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RADIX2FFT_bitNatural'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/FFT_HDL_Optimized.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FFT_HDL_Optimized'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/FFTblock/FFT_block.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FFT_block'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/singen_pac.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/Sine_HDL_Optimized.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Sine_HDL_Optimized'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/adau1761_configuraiton_data.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adau1761_configuraiton_data'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/adau1761_izedboard.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adau1761_izedboard'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/ascii_rom.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ascii_rom'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/peakfinder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'peakfinder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/audio_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'audio_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/clocking.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clocking'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/delay.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'delay'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/i2c.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'i2c'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/i2s_data_interface.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'i2s_data_interface'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/i3c2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'i3c2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/oled_ctrl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'oled_ctrl'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/oled_ex.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'oled_ex'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/oled_init.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'oled_init'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/new/sawtooth_gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sawtooth_gen'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/singen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'singen'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/spi_ctrl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'spi_ctrl'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/upper.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'upper'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/henri/OneDrive/Dokumenter/finalcodesem4/allcodemadebyHenrik/allcodemadebyHenrik.srcs/sources_1/imports/allcode/audio_testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'audio_testbench'

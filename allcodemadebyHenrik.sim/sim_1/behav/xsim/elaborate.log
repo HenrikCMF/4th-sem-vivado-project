@@ -1,0 +1,104 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 9284b98f7e8144338c88962c72429f8f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot audio_testbench_behav xil_defaultlib.audio_testbench -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.un512
+Compiling package ieee.std_logic_textio
+Compiling package unisim.vcomponents
+Compiling package xil_defaultlib.singen_pac
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.std_logic_signed
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling package xil_defaultlib.fft_block_pac
+Compiling architecture behavioral of entity xil_defaultlib.sawtooth_gen [sawtooth_gen_default]
+Compiling architecture rtl of entity xil_defaultlib.Sine_HDL_Optimized [sine_hdl_optimized_default]
+Compiling architecture rtl of entity xil_defaultlib.singen [singen_default]
+Compiling architecture behavioral of entity xil_defaultlib.upper [upper_default]
+Compiling architecture ibuf_v of entity unisim.IBUF [\IBUF(1,9)(1,1)(1,4)(1,7)\]
+Compiling architecture ibufg_v of entity unisim.IBUFG [\IBUFG(1,9)(1,1)(1,7)\]
+Compiling architecture mmcme2_adv_v of entity unisim.MMCME2_ADV [\MMCME2_ADV(clkfbout_mult_f=49.5...]
+Compiling architecture bufg_v of entity unisim.BUFG [bufg_default]
+Compiling architecture xilinx of entity xil_defaultlib.clocking [clocking_default]
+Compiling architecture iobuf_v of entity unisim.IOBUF [\IOBUF(1,7)(1,4)\]
+Compiling architecture behavioral of entity xil_defaultlib.adau1761_configuraiton_data [adau1761_configuraiton_data_defa...]
+Compiling architecture behavioral of entity xil_defaultlib.i3c2 [\i3c2(clk_divide="01111000")\]
+Compiling architecture behavioral of entity xil_defaultlib.i2c [i2c_default]
+Compiling architecture behavioral of entity xil_defaultlib.ADAU1761_interface [adau1761_interface_default]
+Compiling architecture behavioral of entity xil_defaultlib.i2s_data_interface [i2s_data_interface_default]
+Compiling architecture behavioral of entity xil_defaultlib.adau1761_izedboard [adau1761_izedboard_default]
+Compiling architecture behavioral of entity xil_defaultlib.audio_top [audio_top_default]
+Compiling architecture behavioral of entity xil_defaultlib.peakfinder [peakfinder_default]
+Compiling architecture behavioral of entity xil_defaultlib.spi_ctrl [spi_ctrl_default]
+Compiling architecture behavioral of entity xil_defaultlib.delay [delay_default]
+Compiling architecture behavioral of entity xil_defaultlib.oled_init [oled_init_default]
+Compiling architecture behavioral of entity xil_defaultlib.ascii_rom [ascii_rom_default]
+Compiling architecture behavioral of entity xil_defaultlib.oled_ex [oled_ex_default]
+Compiling architecture behavioral of entity xil_defaultlib.oled_ctrl [oled_ctrl_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_1 [radix22fft_ctrl1_1_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator1 [sdfcommutator1_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF1_1 [radix22fft_sdf1_1_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_2 [radix22fft_ctrl1_2_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator2 [sdfcommutator2_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF2_2 [radix22fft_sdf2_2_default]
+Compiling architecture rtl of entity xil_defaultlib.TWDLROM_3_1 [twdlrom_3_1_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_3 [radix22fft_ctrl1_3_default]
+Compiling architecture rtl of entity xil_defaultlib.Complex4Multiply [complex4multiply_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator3 [sdfcommutator3_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF1_3 [radix22fft_sdf1_3_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_4 [radix22fft_ctrl1_4_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator4 [sdfcommutator4_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF2_4 [radix22fft_sdf2_4_default]
+Compiling architecture rtl of entity xil_defaultlib.TWDLROM_5_1 [twdlrom_5_1_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_5 [radix22fft_ctrl1_5_default]
+Compiling architecture rtl of entity xil_defaultlib.Complex4Multiply_block [complex4multiply_block_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator5 [sdfcommutator5_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF1_5 [radix22fft_sdf1_5_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_6 [radix22fft_ctrl1_6_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator6 [sdfcommutator6_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF2_6 [radix22fft_sdf2_6_default]
+Compiling architecture rtl of entity xil_defaultlib.TWDLROM_7_1 [twdlrom_7_1_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_7 [radix22fft_ctrl1_7_default]
+Compiling architecture rtl of entity xil_defaultlib.Complex4Multiply_block1 [complex4multiply_block1_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator7 [sdfcommutator7_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF1_7 [radix22fft_sdf1_7_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_8 [radix22fft_ctrl1_8_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator8 [sdfcommutator8_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF2_8 [radix22fft_sdf2_8_default]
+Compiling architecture rtl of entity xil_defaultlib.TWDLROM_9_1 [twdlrom_9_1_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_CTRL1_1_block [radix22fft_ctrl1_1_block_default]
+Compiling architecture rtl of entity xil_defaultlib.Complex4Multiply_block2 [complex4multiply_block2_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.SDFCommutator9 [sdfcommutator9_default]
+Compiling architecture rtl of entity xil_defaultlib.RADIX22FFT_SDF1_9 [radix22fft_sdf1_9_default]
+Compiling architecture rtl of entity xil_defaultlib.SimpleDualPortRAM_generic [\SimpleDualPortRAM_generic(addrw...]
+Compiling architecture rtl of entity xil_defaultlib.RADIX2FFT_bitNatural [radix2fft_bitnatural_default]
+Compiling architecture rtl of entity xil_defaultlib.FFT_HDL_Optimized [fft_hdl_optimized_default]
+Compiling architecture rtl of entity xil_defaultlib.FFT_block [fft_block_default]
+Compiling architecture behavioral of entity xil_defaultlib.audio_testbench
+Built simulation snapshot audio_testbench_behav
